@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body,
+h1, h2, h3, h4, h5, h6,
+p,
+span,
+article, section,
+div,
+input, select,
+a,
+audio, video {
+  margin: 0;
+  padding: 0;
+}
+
+/* Your CSS below this line! */
+
+
+
